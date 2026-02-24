@@ -1,2 +1,8 @@
 # creating a new file for Task 2 of Unit 3 Assignment.
 print("Hi Unit 3!")
+
+# making further changes and committing again
+def unit_assignment_user(name):
+print(f"Hello, {name]! Welcome to my Unit 3 assignment!")
+
+unit_assignement_user("Meritta")
