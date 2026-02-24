@@ -6,3 +6,5 @@ def unit_assignment_user(name):
 print(f"Hello, {name]! Welcome to my Unit 3 assignment!")
 
 unit_assignement_user("Meritta")
+
+# refractoring message to show that I've changed my code to make it look better. :)
